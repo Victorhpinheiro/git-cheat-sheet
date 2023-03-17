@@ -2,7 +2,7 @@
 
 Traduzido do cheat sheet do Mosh
 
-Original
+Original:
 ```
 https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf
 ```

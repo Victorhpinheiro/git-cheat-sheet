@@ -1,9 +1,11 @@
 # git-cheat-sheet
 
 Traduzido do cheat sheet do Mosh
-OriginalÇ
-https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf
 
+Original
+```
+https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf
+```
 
 # Criando Snapshots
 

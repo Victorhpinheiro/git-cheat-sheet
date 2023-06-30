@@ -7,6 +7,9 @@ Original:
 https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf
 ```
 
+Outras línguas:
+- [Espanhol](./languages/spanish.md)
+
 # Criando Snapshots
 
 ### Inializando um repositório
